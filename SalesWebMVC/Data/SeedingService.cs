@@ -76,6 +76,7 @@ namespace SalesWebMVC.Data
                 r25, r26, r27, r28, r29, r30);
 
             _context.SaveChanges();
+
         }
     }
 }
